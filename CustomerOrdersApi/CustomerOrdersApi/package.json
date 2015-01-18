@@ -1,0 +1,15 @@
+{
+  "name": "CustomerOrdersApi",
+  "version": "0.0.0",
+  "description": "CustomerOrdersApi",
+  "main": "server.js",
+  "author": {
+    "name": "Andras",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.1",
+    "mongodb": "^1.4.19"
+  }
+}
